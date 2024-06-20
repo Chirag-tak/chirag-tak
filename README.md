@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Crime Analyser**
 
-- 🌱 I’m currently learning **Machine learning and**
+- 🌱 I’m currently learning **Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://chirag-tak.github.io/](https://chirag-tak.github.io/)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chiragtak0703@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yfwydyTzQwME2NaXubsMfZI7taR8cMu1/view?usp=sharing](https://drive.google.com/file/d/1yfwydyTzQwME2NaXubsMfZI7taR8cMu1/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1yfwydyTzQwME2NaXubsMfZI7taR8cMu1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
