@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://chirag-tak.github.io/](https://chirag-tak.github.io/)
 - 💬 Ask me about **Python, C/C++, Java, or Machine Learning**
 - 📫 Reach me at **chiragtak0703@gmail.com**
-- 📄 View my [Resume](https://drive.google.com/file/d/1Rv3EwJkQhJKRLI4lCQ5bQEhH6p7cshKv/view?usp=sharing](https://drive.google.com/file/d/1O0Vd43DA-poD9B6rv0q-G_lcgMEPHiuT/view?usp=sharing)
+- 📄 View my [Resume](https://drive.google.com/file/d/1O0Vd43DA-poD9B6rv0q-G_lcgMEPHiuT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
